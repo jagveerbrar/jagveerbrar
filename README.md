@@ -13,7 +13,7 @@
 
 I operate at the intersection of **product strategy, systems engineering, and agentic AI architectures**. Rather than treating LLMs as passive chat interfaces, I build and maintain a compounding, provider-neutral **AI Operating System** to prototype ventures, automate domain analysis, and manage multi-agent swarms.
 
-#### 🛠️ AI-Native Infrastructure & Skills Hub (`jskills`)
+#### 🛠️ [AI-Native Infrastructure & Skills Hub (`jskills`)](https://github.com/jagveerbrar/jskills)
 A provider-agnostic, self-evolving agent skill harness running 100+ production skills:
 - **Autonomous Evolution:** Skills feature integrated eval harnesses (`run-evals`), LLM-as-judge verification, and self-patching loops (`evolve-skill`).
 - **First-Principles Ideation & Sparring:** Custom engines (`dare`, `spar`, `prototype-generator`) combining dialectical debate, value-chain bottleneck mapping, and anti-bias synthetic customer discovery.
